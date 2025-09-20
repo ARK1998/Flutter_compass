@@ -12,4 +12,4 @@ The [Flare](https://www.2dimensions.com) asset:
 3. [weather.flr](https://www.2dimensions.com/a/markhu/files/flare/weather-2/preview)  
 
 # Screenshot
-<img src="icon/screenshot3.gif" width="30%" />
+<img src="icon/screenshot3.gif" width="30%" /> 
